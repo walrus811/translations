@@ -14,4 +14,4 @@ https://svelte.dev/blog/svelte-3-rethinking-reactivity
 
 ### Svelte가 뭐죠?
 
-Svelte는 React나 Vue 같은 컴포넌트 프레임워크지만 중요한 차이점이 있습니다. 전통적인 프레임워크들에선 선언적이고 상태에 의해 변하는 코드를 작성할 수 있습니다. 하지만 문제가 있죠, 브라우저가 그 선언적인 구조를 DOM 연산으로 바꾸기 위해 별도의 작업을 해야한다는 겁니다. [가상 DOM 비교](https://svelte.dev/blog/virtual-dom-is-pure-overhead)(번역 - [가상 DOM 비교]("./virtual-dom-is-pure-overhead.md))
+Svelte는 React나 Vue 같은 컴포넌트 프레임워크지만 중요한 차이점이 있습니다. 전통적인 프레임워크들에선 선언적이고 상태에 의해 변하는 코드를 작성할 수 있습니다. 하지만 문제가 있죠, 브라우저가 그 선언적인 구조를 DOM 연산으로 바꾸기 위해 별도의 작업을 해야한다는 겁니다. [가상 DOM 비교](https://svelte.dev/blog/virtual-dom-is-pure-overhead)(번역 - [가상 DOM 비교](./virtual-dom-is-pure-overhead.md))
