@@ -24,7 +24,7 @@ Svelte의 첫 버전은 [가설에 대한 실험](https://svelte.dev/blog/framew
 
 이를 위해 우리는 우선 현대 UI 프레임워크의 중점이 무엇인지 다시 생각해보았습니다. 바로 반응성(reactivity)였습니다.
 
-`[YouTube](https://youtu.be/AdNJ3fydeao)`
+[YouTube](https://youtu.be/AdNJ3fydeao)
 
 ![You Gotta Love Frontend Code Camp](./images/yglfcc.png)
 
