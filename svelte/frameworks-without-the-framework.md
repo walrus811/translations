@@ -4,7 +4,7 @@
 
 ---
 
-https://svelte.dev/blog/virtual-dom-is-pure-overhead
+https://svelte.dev/blog/frameworks-without-the-framework
 
 [Rich Harris](https://twitter.com/Rich_Harris), 2016년 11월 26일
 
