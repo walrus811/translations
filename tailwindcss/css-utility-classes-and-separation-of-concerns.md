@@ -476,7 +476,7 @@ Nicolas Gallagher의 [HTML 시맨틱스와 프론트 엔드 아키텍처에 관�
   </form>
 ```
 
-그런데 이미 `.card` 클래스가 있다면 새 UI 밑에 stacked-form을 넣어 합성(composition)해주면 된다.
+그런데 이미 `.card` 클래스가 있다면 새 UI 밑에 stacked-form을 넣어 구성해주면 된다.
 
 ```HTML
 <div class="card">
