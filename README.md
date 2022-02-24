@@ -17,3 +17,7 @@ https://svelte.dev/
 - [프레임워크 없는 프레임워크 : 왜 이걸 바로 생각하지 못했을까?](./svelte/frameworks-without-the-framework.md) - [Rich Harris](https://twitter.com/Rich_Harris), 2016년 11월 26일
 
 - [더 적은 코드를 쓰세요](./svelte/write-less-code.md) - [Rich Harris](https://twitter.com/Rich_Harris), 2019년 4월 20일
+
+# 기타
+
+- [성공적인 git 브랜칭 모델](./a-successful-git-branching-model/README.md) - **Vicent Driessen**, 2010년 1월 5일 화요일)
