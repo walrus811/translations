@@ -21,3 +21,5 @@ https://svelte.dev/
 # 기타
 
 - [성공적인 git 브랜칭 모델](./a-successful-git-branching-model/README.md) - **Vicent Driessen**, 2010년 1월 5일 화요일)
+
+- [GitHub Flow](./github-flow/README.md) - **Scott Chacon**, 2011년 8월 31일
